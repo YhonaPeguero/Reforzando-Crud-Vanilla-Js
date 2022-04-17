@@ -12,8 +12,8 @@
 # Funcionalidades.
 ***
 
-1. Nombre de la tarea.
-2. Fecha de la tarea.
+1. Agregar nombre de la tarea.
+2. Agregar fecha de la tarea.
 3. Agregar tareas.
 4. Marcar como realizada.
 5. Eliminar tareas.
