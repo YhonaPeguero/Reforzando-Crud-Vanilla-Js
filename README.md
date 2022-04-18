@@ -1,4 +1,4 @@
-# CRUD - VANILLA - JS 🧐
+# CRUD - VANILLA - JavaScript 🧐
 
 ![Screenshot_1](https://user-images.githubusercontent.com/76560887/163734879-07c21185-a339-485a-88ad-e5e72eb3e3ed.png)
 
