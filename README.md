@@ -6,7 +6,7 @@
 
 ## Este repositorio fue creado como parte de la capacitacion Oracle Next Education, propuesto por el curso de Frontend de Alura Latam.
 
-## Enlace para visitar el site web: https://yhonapeguero.github.io/practicando-crud-vanilla-js/
+## Enlace para visitar el site web: https://yhonapeguero.github.io/Reforzando-Crud-Vanilla-Js/
 ***
 
 # Funcionalidades.
